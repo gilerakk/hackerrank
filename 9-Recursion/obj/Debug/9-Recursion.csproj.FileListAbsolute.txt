@@ -4,3 +4,10 @@ C:\Users\Radek\Documents\Visual Studio 2015\Projects\HackerRank\ConsoleApplicati
 C:\Users\Radek\Documents\Visual Studio 2015\Projects\HackerRank\ConsoleApplication1\obj\Debug\9-Recursion.csprojResolveAssemblyReference.cache
 C:\Users\Radek\Documents\Visual Studio 2015\Projects\HackerRank\ConsoleApplication1\obj\Debug\Recursion.exe
 C:\Users\Radek\Documents\Visual Studio 2015\Projects\HackerRank\ConsoleApplication1\obj\Debug\Recursion.pdb
+C:\Users\Radek\Source\Repos\hackerrank\9-Recursion\bin\Debug\Recursion.exe.config
+C:\Users\Radek\Source\Repos\hackerrank\9-Recursion\bin\Debug\Recursion.exe
+C:\Users\Radek\Source\Repos\hackerrank\9-Recursion\bin\Debug\Recursion.pdb
+C:\Users\Radek\Source\Repos\hackerrank\9-Recursion\obj\Debug\9-Recursion.csprojResolveAssemblyReference.cache
+C:\Users\Radek\Source\Repos\hackerrank\9-Recursion\obj\Debug\9-Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Radek\Source\Repos\hackerrank\9-Recursion\obj\Debug\Recursion.exe
+C:\Users\Radek\Source\Repos\hackerrank\9-Recursion\obj\Debug\Recursion.pdb
