@@ -1,3 +1,10 @@
 C:\Users\Radek\Documents\Visual Studio 2015\Projects\HackerRank\HackerRank\bin\Debug\HackerRank.exe.config
 C:\Users\Radek\Documents\Visual Studio 2015\Projects\HackerRank\HackerRank\obj\Debug\HackerRank.exe
 C:\Users\Radek\Documents\Visual Studio 2015\Projects\HackerRank\HackerRank\obj\Debug\HackerRank.pdb
+C:\Users\Radek\source\repos\hackerrank\HackerRank\bin\Debug\HackerRank.exe.config
+C:\Users\Radek\source\repos\hackerrank\HackerRank\bin\Debug\HackerRank.exe
+C:\Users\Radek\source\repos\hackerrank\HackerRank\bin\Debug\HackerRank.pdb
+C:\Users\Radek\source\repos\hackerrank\HackerRank\obj\Debug\8-Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Radek\source\repos\hackerrank\HackerRank\obj\Debug\8-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\hackerrank\HackerRank\obj\Debug\HackerRank.exe
+C:\Users\Radek\source\repos\hackerrank\HackerRank\obj\Debug\HackerRank.pdb
