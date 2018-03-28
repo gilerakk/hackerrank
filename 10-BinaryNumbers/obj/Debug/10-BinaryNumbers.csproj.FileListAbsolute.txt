@@ -4,3 +4,4 @@ C:\Users\Radek\source\repos\hackerrank\10-BinaryNumbers\bin\Debug\BinaryNumbers.
 C:\Users\Radek\source\repos\hackerrank\10-BinaryNumbers\obj\Debug\10-BinaryNumbers.csproj.CoreCompileInputs.cache
 C:\Users\Radek\source\repos\hackerrank\10-BinaryNumbers\obj\Debug\BinaryNumbers.exe
 C:\Users\Radek\source\repos\hackerrank\10-BinaryNumbers\obj\Debug\BinaryNumbers.pdb
+C:\Users\Radek\source\repos\hackerrank\10-BinaryNumbers\obj\Debug\10-BinaryNumbers.csprojResolveAssemblyReference.cache
