@@ -8,3 +8,10 @@ C:\Users\Radek\Source\Repos\hackerrank\HackerRank\bin\Debug\Dictionary.exe
 C:\Users\Radek\Source\Repos\hackerrank\HackerRank\bin\Debug\Dictionary.pdb
 C:\Users\Radek\Source\Repos\hackerrank\HackerRank\obj\Debug\Dictionary.exe
 C:\Users\Radek\Source\Repos\hackerrank\HackerRank\obj\Debug\Dictionary.pdb
+C:\Users\Radek\source\repos\hackerrank\8-Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Radek\source\repos\hackerrank\8-Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Radek\source\repos\hackerrank\8-Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Radek\source\repos\hackerrank\8-Dictionary\obj\Debug\8-Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Radek\source\repos\hackerrank\8-Dictionary\obj\Debug\8-Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\hackerrank\8-Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Radek\source\repos\hackerrank\8-Dictionary\obj\Debug\Dictionary.pdb

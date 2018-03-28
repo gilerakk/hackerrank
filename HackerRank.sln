@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.24720.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Dictionary", "HackerRank\8-Dictionary.csproj", "{67211964-DBFA-4E8E-8B5F-EE875C6503DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "8-Dictionary", "8-Dictionary\8-Dictionary.csproj", "{67211964-DBFA-4E8E-8B5F-EE875C6503DB}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "9-Recursion", "9-Recursion\9-Recursion.csproj", "{D8CFCCFB-33BC-435A-B954-A6466E58EB77}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10-BinaryNumbers", "10-BinaryNumbers\10-BinaryNumbers.csproj", "{F55F4EFD-2A2B-4790-A456-F7698400145E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +23,15 @@ Global
 		{D8CFCCFB-33BC-435A-B954-A6466E58EB77}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D8CFCCFB-33BC-435A-B954-A6466E58EB77}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8CFCCFB-33BC-435A-B954-A6466E58EB77}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55F4EFD-2A2B-4790-A456-F7698400145E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55F4EFD-2A2B-4790-A456-F7698400145E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55F4EFD-2A2B-4790-A456-F7698400145E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55F4EFD-2A2B-4790-A456-F7698400145E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE01285B-D259-4AD2-8DB9-98CB700D232B}
 	EndGlobalSection
 EndGlobal
