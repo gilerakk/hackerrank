@@ -15,7 +15,8 @@ namespace HackerRank
             string result = "";
             int consecutive = 0;
             int maxValue = 0;
-            
+
+            Console.WriteLine("Zadej cislo v desitkove soustave: ");
             int n = Convert.ToInt32(Console.ReadLine());
             while (n > 0)
             {
@@ -44,8 +45,8 @@ namespace HackerRank
                 result += list[list.Count - i - 1];
             }
 
-            Console.WriteLine("Vypocet: " + result);
-            Console.WriteLine("Consecutive: " + maxValue);
+            Console.WriteLine("Binarne: " + result);
+            Console.WriteLine("Po sobe jdoucich jednicek: " + maxValue);
             Console.ReadLine();
 
         }
