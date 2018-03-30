@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11-2DArrays", "11-2DArrays\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12-Inheritance", "12-Inheritance\12-Inheritance.csproj", "{DB6D4833-7BAA-4C4C-B2DF-8C64777F7998}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-AbstractClasses", "13-AbstractClasses\13-AbstractClasses.csproj", "{10D030FE-F3CE-4305-83A1-9B6E7B4EC42F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{DB6D4833-7BAA-4C4C-B2DF-8C64777F7998}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DB6D4833-7BAA-4C4C-B2DF-8C64777F7998}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DB6D4833-7BAA-4C4C-B2DF-8C64777F7998}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10D030FE-F3CE-4305-83A1-9B6E7B4EC42F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10D030FE-F3CE-4305-83A1-9B6E7B4EC42F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10D030FE-F3CE-4305-83A1-9B6E7B4EC42F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10D030FE-F3CE-4305-83A1-9B6E7B4EC42F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
