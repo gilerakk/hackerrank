@@ -1,0 +1,7 @@
+C:\Users\Radek\source\repos\hackerrank\14-Scope\bin\Debug\Scope.exe.config
+C:\Users\Radek\source\repos\hackerrank\14-Scope\bin\Debug\Scope.exe
+C:\Users\Radek\source\repos\hackerrank\14-Scope\bin\Debug\Scope.pdb
+C:\Users\Radek\source\repos\hackerrank\14-Scope\obj\Debug\14-Scope.csprojResolveAssemblyReference.cache
+C:\Users\Radek\source\repos\hackerrank\14-Scope\obj\Debug\14-Scope.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\hackerrank\14-Scope\obj\Debug\Scope.exe
+C:\Users\Radek\source\repos\hackerrank\14-Scope\obj\Debug\Scope.pdb
