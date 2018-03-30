@@ -1,0 +1,7 @@
+C:\Users\Radek\source\repos\hackerrank\15-LinkedList\bin\Debug\LinkedList.exe.config
+C:\Users\Radek\source\repos\hackerrank\15-LinkedList\bin\Debug\LinkedList.exe
+C:\Users\Radek\source\repos\hackerrank\15-LinkedList\bin\Debug\LinkedList.pdb
+C:\Users\Radek\source\repos\hackerrank\15-LinkedList\obj\Debug\15-LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Radek\source\repos\hackerrank\15-LinkedList\obj\Debug\15-LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\hackerrank\15-LinkedList\obj\Debug\LinkedList.exe
+C:\Users\Radek\source\repos\hackerrank\15-LinkedList\obj\Debug\LinkedList.pdb

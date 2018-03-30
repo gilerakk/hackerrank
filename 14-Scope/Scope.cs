@@ -44,14 +44,17 @@ namespace HackerRank
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Zadej cislo, ktere se k nicemu nepouzije");
             Convert.ToInt32(Console.ReadLine());
 
+            Console.WriteLine("Zadej cisla oddelene mezerou");
             int[] a = Console.ReadLine().Split(' ').Select(x => Convert.ToInt32(x)).ToArray();
 
             Difference d = new Difference(a);
 
             d.computeDifference();
 
+            Console.WriteLine("Nejvetsi rozdil mezi cisly:");
             Console.Write(d.maximumDifference);
             Console.ReadKey();
         }
