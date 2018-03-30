@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-Scope", "14-Scope\14-Sco
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-LinkedList", "15-LinkedList\15-LinkedList.csproj", "{0320C626-98DB-4A6A-9186-74ADDA96A2F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16-ExceptionsStringToInteger", "16-ExceptionsStringToInteger\16-ExceptionsStringToInteger.csproj", "{801EDDE4-DA24-43B3-ABEB-59723F9B8105}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{0320C626-98DB-4A6A-9186-74ADDA96A2F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0320C626-98DB-4A6A-9186-74ADDA96A2F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0320C626-98DB-4A6A-9186-74ADDA96A2F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{801EDDE4-DA24-43B3-ABEB-59723F9B8105}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{801EDDE4-DA24-43B3-ABEB-59723F9B8105}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{801EDDE4-DA24-43B3-ABEB-59723F9B8105}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{801EDDE4-DA24-43B3-ABEB-59723F9B8105}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
