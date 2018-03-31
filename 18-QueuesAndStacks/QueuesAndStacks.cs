@@ -9,29 +9,35 @@ namespace HackerRank
     class Solution
     {
         //Write your code here
+        //LIFO
         Stack<char> stack = new Stack<char>();
+        //FIFO
         Queue<char> queue = new Queue<char>();
 
         internal void pushCharacter(char character)
         {
-            
+
+            //vklada na zacatek - LIFO
             stack.Push(character);
         }
 
         internal void enqueueCharacter(char character)
         {
-            
+
+            //vklada na konec - FIFO
             queue.Enqueue(character);
         }
 
         internal char popCharacter()
         {
+            //smaze a vraci od zacatku - LIFO
             char result = stack.Pop();
             return result;
         }
 
         internal char dequeueCharacter()
         {
+            //smaze a vraci od zacatku - FIFO
             char result = queue.Dequeue();
             return result;
         }
