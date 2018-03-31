@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-QueuesAndStacks", "18-Qu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-Interfaces", "19-Interfaces\19-Interfaces.csproj", "{37A921B0-1CDE-4D4F-A3BA-234519731E3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-Sorting", "20-Sorting\20-Sorting.csproj", "{24AEA11A-7C80-4293-85D8-CFEE612ABAAC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{37A921B0-1CDE-4D4F-A3BA-234519731E3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37A921B0-1CDE-4D4F-A3BA-234519731E3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37A921B0-1CDE-4D4F-A3BA-234519731E3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24AEA11A-7C80-4293-85D8-CFEE612ABAAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24AEA11A-7C80-4293-85D8-CFEE612ABAAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24AEA11A-7C80-4293-85D8-CFEE612ABAAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24AEA11A-7C80-4293-85D8-CFEE612ABAAC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
