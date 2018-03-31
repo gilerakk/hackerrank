@@ -1,0 +1,7 @@
+C:\Users\Radek\source\repos\hackerrank\24-MoreLinkedLists\bin\Debug\MoreLinkedLists.exe.config
+C:\Users\Radek\source\repos\hackerrank\24-MoreLinkedLists\bin\Debug\MoreLinkedLists.exe
+C:\Users\Radek\source\repos\hackerrank\24-MoreLinkedLists\bin\Debug\MoreLinkedLists.pdb
+C:\Users\Radek\source\repos\hackerrank\24-MoreLinkedLists\obj\Debug\24-MoreLinkedLists.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\hackerrank\24-MoreLinkedLists\obj\Debug\MoreLinkedLists.exe
+C:\Users\Radek\source\repos\hackerrank\24-MoreLinkedLists\obj\Debug\MoreLinkedLists.pdb
+C:\Users\Radek\source\repos\hackerrank\24-MoreLinkedLists\obj\Debug\24-MoreLinkedLists.csprojResolveAssemblyReference.cache
