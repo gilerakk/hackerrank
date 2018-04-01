@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6492A030-7F3F-401C-9C82-BCA2024C3D22}</ProjectGuid>
+    <ProjectGuid>{9ED4AE4F-2A6E-48A3-A987-3221F114646B}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HackerRank</RootNamespace>
-    <AssemblyName>Testing</AssemblyName>
+    <RootNamespace>_29_RegEx</RootNamespace>
+    <AssemblyName>29-RegEx</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,7 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Testing.cs" />
+    <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
