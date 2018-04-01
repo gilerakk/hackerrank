@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "25-RunningTimeAndComplexity
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "26-NestedLogic", "26-NestedLogic\26-NestedLogic.csproj", "{7DF86E77-4640-4BE5-91BF-098E8469F35F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "27-Testing", "27-Testing\27-Testing.csproj", "{6492A030-7F3F-401C-9C82-BCA2024C3D22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -123,6 +125,10 @@ Global
 		{7DF86E77-4640-4BE5-91BF-098E8469F35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7DF86E77-4640-4BE5-91BF-098E8469F35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7DF86E77-4640-4BE5-91BF-098E8469F35F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6492A030-7F3F-401C-9C82-BCA2024C3D22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6492A030-7F3F-401C-9C82-BCA2024C3D22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6492A030-7F3F-401C-9C82-BCA2024C3D22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6492A030-7F3F-401C-9C82-BCA2024C3D22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
