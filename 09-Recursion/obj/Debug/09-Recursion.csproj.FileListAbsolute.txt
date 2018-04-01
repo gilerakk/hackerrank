@@ -1,0 +1,7 @@
+C:\Users\Radek\source\repos\hackerrank\09-Recursion\bin\Debug\Recursion.exe.config
+C:\Users\Radek\source\repos\hackerrank\09-Recursion\bin\Debug\Recursion.exe
+C:\Users\Radek\source\repos\hackerrank\09-Recursion\bin\Debug\Recursion.pdb
+C:\Users\Radek\source\repos\hackerrank\09-Recursion\obj\Debug\09-Recursion.csprojResolveAssemblyReference.cache
+C:\Users\Radek\source\repos\hackerrank\09-Recursion\obj\Debug\09-Recursion.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\hackerrank\09-Recursion\obj\Debug\Recursion.exe
+C:\Users\Radek\source\repos\hackerrank\09-Recursion\obj\Debug\Recursion.pdb

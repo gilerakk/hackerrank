@@ -1,7 +1,6 @@
 C:\Users\Radek\source\repos\hackerrank\18-QueuesAndStacks\bin\Debug\QueuesAndStacks.exe.config
 C:\Users\Radek\source\repos\hackerrank\18-QueuesAndStacks\bin\Debug\QueuesAndStacks.exe
 C:\Users\Radek\source\repos\hackerrank\18-QueuesAndStacks\bin\Debug\QueuesAndStacks.pdb
-C:\Users\Radek\source\repos\hackerrank\18-QueuesAndStacks\obj\Debug\18-QueuesAndStacks.csprojResolveAssemblyReference.cache
 C:\Users\Radek\source\repos\hackerrank\18-QueuesAndStacks\obj\Debug\18-QueuesAndStacks.csproj.CoreCompileInputs.cache
 C:\Users\Radek\source\repos\hackerrank\18-QueuesAndStacks\obj\Debug\QueuesAndStacks.exe
 C:\Users\Radek\source\repos\hackerrank\18-QueuesAndStacks\obj\Debug\QueuesAndStacks.pdb

@@ -1,7 +1,6 @@
 C:\Users\Radek\source\repos\hackerrank\16-ExceptionsStringToInteger\bin\Debug\ExceptionsStringToInteger.exe.config
 C:\Users\Radek\source\repos\hackerrank\16-ExceptionsStringToInteger\bin\Debug\ExceptionsStringToInteger.exe
 C:\Users\Radek\source\repos\hackerrank\16-ExceptionsStringToInteger\bin\Debug\ExceptionsStringToInteger.pdb
-C:\Users\Radek\source\repos\hackerrank\16-ExceptionsStringToInteger\obj\Debug\16-ExceptionsStringToInteger.csprojResolveAssemblyReference.cache
 C:\Users\Radek\source\repos\hackerrank\16-ExceptionsStringToInteger\obj\Debug\16-ExceptionsStringToInteger.csproj.CoreCompileInputs.cache
 C:\Users\Radek\source\repos\hackerrank\16-ExceptionsStringToInteger\obj\Debug\ExceptionsStringToInteger.exe
 C:\Users\Radek\source\repos\hackerrank\16-ExceptionsStringToInteger\obj\Debug\ExceptionsStringToInteger.pdb

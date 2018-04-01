@@ -1,7 +1,6 @@
 C:\Users\Radek\source\repos\hackerrank\26-NestedLogic\bin\Debug\NestedLogic.exe.config
 C:\Users\Radek\source\repos\hackerrank\26-NestedLogic\bin\Debug\NestedLogic.exe
 C:\Users\Radek\source\repos\hackerrank\26-NestedLogic\bin\Debug\NestedLogic.pdb
-C:\Users\Radek\source\repos\hackerrank\26-NestedLogic\obj\Debug\26-NestedLogic.csprojResolveAssemblyReference.cache
 C:\Users\Radek\source\repos\hackerrank\26-NestedLogic\obj\Debug\26-NestedLogic.csproj.CoreCompileInputs.cache
 C:\Users\Radek\source\repos\hackerrank\26-NestedLogic\obj\Debug\NestedLogic.exe
 C:\Users\Radek\source\repos\hackerrank\26-NestedLogic\obj\Debug\NestedLogic.pdb

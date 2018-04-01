@@ -1,4 +1,3 @@
-C:\Users\Radek\source\repos\hackerrank\13-AbstractClasses\obj\Debug\13-AbstractClasses.csprojResolveAssemblyReference.cache
 C:\Users\Radek\source\repos\hackerrank\13-AbstractClasses\obj\Debug\13-AbstractClasses.csproj.CoreCompileInputs.cache
 C:\Users\Radek\source\repos\hackerrank\13-AbstractClasses\bin\Debug\AbstractClasses.exe.config
 C:\Users\Radek\source\repos\hackerrank\13-AbstractClasses\bin\Debug\AbstractClasses.exe

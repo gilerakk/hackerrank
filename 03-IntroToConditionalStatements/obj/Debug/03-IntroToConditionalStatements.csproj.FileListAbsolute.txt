@@ -1,0 +1,6 @@
+C:\Users\Radek\source\repos\hackerrank\03-IntroToConditionalStatements\bin\Debug\IntroToConditionalStatements.exe.config
+C:\Users\Radek\source\repos\hackerrank\03-IntroToConditionalStatements\bin\Debug\IntroToConditionalStatements.exe
+C:\Users\Radek\source\repos\hackerrank\03-IntroToConditionalStatements\bin\Debug\IntroToConditionalStatements.pdb
+C:\Users\Radek\source\repos\hackerrank\03-IntroToConditionalStatements\obj\Debug\03-IntroToConditionalStatements.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\hackerrank\03-IntroToConditionalStatements\obj\Debug\IntroToConditionalStatements.exe
+C:\Users\Radek\source\repos\hackerrank\03-IntroToConditionalStatements\obj\Debug\IntroToConditionalStatements.pdb

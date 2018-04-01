@@ -1,7 +1,6 @@
 C:\Users\Radek\source\repos\hackerrank\12-Inheritance\bin\Debug\Inheritance.exe.config
 C:\Users\Radek\source\repos\hackerrank\12-Inheritance\bin\Debug\Inheritance.exe
 C:\Users\Radek\source\repos\hackerrank\12-Inheritance\bin\Debug\Inheritance.pdb
-C:\Users\Radek\source\repos\hackerrank\12-Inheritance\obj\Debug\12-Inheritance.csprojResolveAssemblyReference.cache
 C:\Users\Radek\source\repos\hackerrank\12-Inheritance\obj\Debug\12-Inheritance.csproj.CoreCompileInputs.cache
 C:\Users\Radek\source\repos\hackerrank\12-Inheritance\obj\Debug\Inheritance.exe
 C:\Users\Radek\source\repos\hackerrank\12-Inheritance\obj\Debug\Inheritance.pdb

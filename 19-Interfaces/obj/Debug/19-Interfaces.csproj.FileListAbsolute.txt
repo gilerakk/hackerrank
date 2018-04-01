@@ -1,7 +1,6 @@
 C:\Users\Radek\source\repos\hackerrank\19-Interfaces\bin\Debug\Interfaces.exe.config
 C:\Users\Radek\source\repos\hackerrank\19-Interfaces\bin\Debug\Interfaces.exe
 C:\Users\Radek\source\repos\hackerrank\19-Interfaces\bin\Debug\Interfaces.pdb
-C:\Users\Radek\source\repos\hackerrank\19-Interfaces\obj\Debug\19-Interfaces.csprojResolveAssemblyReference.cache
 C:\Users\Radek\source\repos\hackerrank\19-Interfaces\obj\Debug\19-Interfaces.csproj.CoreCompileInputs.cache
 C:\Users\Radek\source\repos\hackerrank\19-Interfaces\obj\Debug\Interfaces.exe
 C:\Users\Radek\source\repos\hackerrank\19-Interfaces\obj\Debug\Interfaces.pdb
