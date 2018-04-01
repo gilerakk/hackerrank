@@ -1,0 +1,7 @@
+C:\Users\Radek\source\repos\hackerrank\29-BitwiseAND\bin\Debug\BitwiseAND.exe.config
+C:\Users\Radek\source\repos\hackerrank\29-BitwiseAND\bin\Debug\BitwiseAND.exe
+C:\Users\Radek\source\repos\hackerrank\29-BitwiseAND\bin\Debug\BitwiseAND.pdb
+C:\Users\Radek\source\repos\hackerrank\29-BitwiseAND\obj\Debug\29-BitwiseAND.csprojResolveAssemblyReference.cache
+C:\Users\Radek\source\repos\hackerrank\29-BitwiseAND\obj\Debug\29-BitwiseAND.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\hackerrank\29-BitwiseAND\obj\Debug\BitwiseAND.exe
+C:\Users\Radek\source\repos\hackerrank\29-BitwiseAND\obj\Debug\BitwiseAND.pdb

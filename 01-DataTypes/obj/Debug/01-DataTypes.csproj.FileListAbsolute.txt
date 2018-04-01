@@ -1,0 +1,6 @@
+C:\Users\Radek\source\repos\hackerrank\01-DataTypes\bin\Debug\DataTypes.exe.config
+C:\Users\Radek\source\repos\hackerrank\01-DataTypes\bin\Debug\DataTypes.exe
+C:\Users\Radek\source\repos\hackerrank\01-DataTypes\bin\Debug\DataTypes.pdb
+C:\Users\Radek\source\repos\hackerrank\01-DataTypes\obj\Debug\01-DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\hackerrank\01-DataTypes\obj\Debug\DataTypes.exe
+C:\Users\Radek\source\repos\hackerrank\01-DataTypes\obj\Debug\DataTypes.pdb

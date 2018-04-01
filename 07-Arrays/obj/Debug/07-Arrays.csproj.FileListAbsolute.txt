@@ -1,0 +1,6 @@
+C:\Users\Radek\source\repos\hackerrank\07-Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Radek\source\repos\hackerrank\07-Arrays\bin\Debug\Arrays.exe
+C:\Users\Radek\source\repos\hackerrank\07-Arrays\bin\Debug\Arrays.pdb
+C:\Users\Radek\source\repos\hackerrank\07-Arrays\obj\Debug\07-Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\hackerrank\07-Arrays\obj\Debug\Arrays.exe
+C:\Users\Radek\source\repos\hackerrank\07-Arrays\obj\Debug\Arrays.pdb

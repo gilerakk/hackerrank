@@ -1,0 +1,6 @@
+C:\Users\Radek\source\repos\hackerrank\06-LetsReview\bin\Debug\LetsReview.exe.config
+C:\Users\Radek\source\repos\hackerrank\06-LetsReview\bin\Debug\LetsReview.exe
+C:\Users\Radek\source\repos\hackerrank\06-LetsReview\bin\Debug\LetsReview.pdb
+C:\Users\Radek\source\repos\hackerrank\06-LetsReview\obj\Debug\06-LetsReview.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\hackerrank\06-LetsReview\obj\Debug\LetsReview.exe
+C:\Users\Radek\source\repos\hackerrank\06-LetsReview\obj\Debug\LetsReview.pdb

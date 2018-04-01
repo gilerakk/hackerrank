@@ -1,0 +1,7 @@
+C:\Users\Radek\source\repos\hackerrank\02-Operators\bin\Debug\02-Operators.exe.config
+C:\Users\Radek\source\repos\hackerrank\02-Operators\bin\Debug\02-Operators.exe
+C:\Users\Radek\source\repos\hackerrank\02-Operators\bin\Debug\02-Operators.pdb
+C:\Users\Radek\source\repos\hackerrank\02-Operators\obj\Debug\02-Operators.csprojResolveAssemblyReference.cache
+C:\Users\Radek\source\repos\hackerrank\02-Operators\obj\Debug\02-Operators.csproj.CoreCompileInputs.cache
+C:\Users\Radek\source\repos\hackerrank\02-Operators\obj\Debug\02-Operators.exe
+C:\Users\Radek\source\repos\hackerrank\02-Operators\obj\Debug\02-Operators.pdb
